@@ -29,3 +29,11 @@ Notes:<br>
     <li>Permissions and URL access = <b>Allow all permissions</b></li>
     <li>Update URL = <b>Installation URL (see above)</b></li>
   </ul></ol>
+<br>
+<br>
+<h3>Disclaimer</h3>
+This Chrome extension is provided "as is" and "as available," without any warranties of any kind, either express or implied. 
+
+By installing and using this extension, you acknowledge and agree that you do so at your own risk. The author(s) and contributor(s) shall not be held liable for any direct, indirect, incidental, consequential, or special damages—including, but not limited to, data loss, browser instability, account restrictions, or any other negative impact—arising out of or in connection with the use or inability to use this software. 
+
+This project is not affiliated with, endorsed by, or sponsored by Google LLC or any third-party websites it interacts with. Users are solely responsible for ensuring their use of this extension complies with applicable laws and the Terms of Service of any websites they visit.
