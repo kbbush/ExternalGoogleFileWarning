@@ -6,7 +6,7 @@ This simple Chrome extension displays a popup, warning the user to exercise caut
 </ul>
 <br>
 <br>
-Notes:<br>
+<h3>Notes</h3>
 <ul>
   <li>in the case of Google Drive files, ensure you have <i><a href="https://admin.google.com/ac/managedsettings/55656082996/sharing">Apps > Google Workspace > Drive and Docs > Sharing settings</a> > Highlight external files</i> set to <b>ON</b> for all users <i>(required for this extension to function correctly!)</i></li>
   <li>in the case of Forms, the popup will display where the Form is owned (your domain, another domain, or outside your domain)</li>
