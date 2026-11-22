@@ -6,6 +6,10 @@ This simple Chrome extension displays a popup, warning the user to exercise caut
 </ul>
 <br>
 <br>
+<h3>Who this tool is designed for</h3>
+Google Workspace organizations, particularly Google Workspace for Education organizations, in need of a tool to help increase user awareness and caution when interacting with potentially malicious, phishy Google Drive files and forms.<br>
+<br>
+<br>
 <h3>Notes</h3>
 <ul>
   <li>in the case of Google Drive files, ensure you have <i><a href="https://admin.google.com/ac/managedsettings/55656082996/sharing">Apps > Google Workspace > Drive and Docs > Sharing settings</a> > Highlight external files</i> set to <b>ON</b> for all users <i>(required for this extension to function correctly!)</i><br>
