@@ -39,7 +39,7 @@ This simple Chrome extension displays a popup, warning the user to exercise caut
 <br>
 <br>
 <h3>Disclaimer</h3>
-This Chrome extension is provided "as is" and "as available," without any warranties of any kind, either express or implied.<br>
+This Chrome extension is provided "as is" and "as available," without any warranties of any kind, either express or implied. This Chrome extension was developed using Gemini 3.1 Pro.<br>
 <br>
 This extension operates strictly on a read-only basis and does not modify, alter, or manipulate data on any website. All processing occurs locally within your browser; this extension does not collect, transmit, or share any user or browsing data with the publisher/author(s) or any third parties.<br>
 <br>
