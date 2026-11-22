@@ -1,5 +1,6 @@
 # ExternalGoogleFileWarning
-This simple Chrome extension displays a popup, warning the user to exercise caution, inside Chrome whenever a user:
+<h3>What this tool does</h3>
+This simple Chrome extension displays a popup inside the Chrome browser, warning the user to exercise caution, whenever a user:
 <ul>
   <li>opens an externally owned Google Drive file <i>(owned by a user outside their domain/organization)</i></li>
   <li>opens any Google Form</li>
@@ -16,6 +17,7 @@ Google Workspace organizations, particularly Google Workspace for Education orga
     <img width="932" height="82" alt="image" src="https://github.com/user-attachments/assets/fffc5c99-41ba-4134-8854-0081e12a311e" /></li>
   <li>in the case of Forms, the popup will display where the Form is owned (your domain, another domain, or outside your domain)<br>
   <img width="932" height="82" alt="image" src="https://github.com/user-attachments/assets/b4788dd6-b535-4b6f-a32d-322c708af6d2" /></li>
+  <li>tested in and compatible with Chrome Browser v158 and ChromeOS v158</li>
 </ul> 
 
 <br>
